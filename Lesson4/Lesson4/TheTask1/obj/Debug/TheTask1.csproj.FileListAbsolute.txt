@@ -1,0 +1,6 @@
+D:\OneDrive\учеба\Lesson4\Lesson4\TheTask1\bin\Debug\TheTask1.dll
+D:\OneDrive\учеба\Lesson4\Lesson4\TheTask1\bin\Debug\TheTask1.pdb
+D:\OneDrive\учеба\Lesson4\Lesson4\TheTask1\obj\Debug\TheTask1.csprojAssemblyReference.cache
+D:\OneDrive\учеба\Lesson4\Lesson4\TheTask1\obj\Debug\TheTask1.csproj.CoreCompileInputs.cache
+D:\OneDrive\учеба\Lesson4\Lesson4\TheTask1\obj\Debug\TheTask1.dll
+D:\OneDrive\учеба\Lesson4\Lesson4\TheTask1\obj\Debug\TheTask1.pdb

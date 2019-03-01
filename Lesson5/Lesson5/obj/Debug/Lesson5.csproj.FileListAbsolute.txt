@@ -1,0 +1,12 @@
+D:\OneDrive\учеба\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
+D:\OneDrive\учеба\Lesson5\Lesson5\bin\Debug\Lesson5.exe
+D:\OneDrive\учеба\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
+D:\OneDrive\учеба\Lesson5\Lesson5\obj\Debug\Lesson5.csprojAssemblyReference.cache
+D:\OneDrive\учеба\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+D:\OneDrive\учеба\Lesson5\Lesson5\obj\Debug\Lesson5.exe
+D:\OneDrive\учеба\Lesson5\Lesson5\obj\Debug\Lesson5.pdb
+D:\OneDrive\учеба\Lesson5\Lesson5\bin\Debug\TheTask1.dll
+D:\OneDrive\учеба\Lesson5\Lesson5\bin\Debug\TheTask1.pdb
+D:\OneDrive\учеба\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.CopyComplete
+D:\OneDrive\учеба\Lesson5\Lesson5\bin\Debug\TheTask5.dll
+D:\OneDrive\учеба\Lesson5\Lesson5\bin\Debug\TheTask5.pdb

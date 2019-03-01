@@ -1,0 +1,10 @@
+D:\OneDrive\учеба\Lesson7\GuessNumber\bin\Debug\GuessNumber.exe.config
+D:\OneDrive\учеба\Lesson7\GuessNumber\bin\Debug\GuessNumber.exe
+D:\OneDrive\учеба\Lesson7\GuessNumber\bin\Debug\GuessNumber.pdb
+D:\OneDrive\учеба\Lesson7\GuessNumber\obj\Debug\GuessNumber.csprojAssemblyReference.cache
+D:\OneDrive\учеба\Lesson7\GuessNumber\obj\Debug\GuessNumber.Form1.resources
+D:\OneDrive\учеба\Lesson7\GuessNumber\obj\Debug\GuessNumber.Properties.Resources.resources
+D:\OneDrive\учеба\Lesson7\GuessNumber\obj\Debug\GuessNumber.csproj.GenerateResource.cache
+D:\OneDrive\учеба\Lesson7\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+D:\OneDrive\учеба\Lesson7\GuessNumber\obj\Debug\GuessNumber.exe
+D:\OneDrive\учеба\Lesson7\GuessNumber\obj\Debug\GuessNumber.pdb
